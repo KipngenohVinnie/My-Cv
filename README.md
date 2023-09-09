@@ -9,7 +9,7 @@ This web application gives all details about me .It entails my background inform
 * Smartphone/Iphone/Laptop.
 * Browser(Chrome recommended).
 * Internet.
-* Access it on github pages via https://vincent-kipngeno.github.io/my-portfolio/ or,
+* Access it on github pages via https://kipngenohvinnie.github.io/My-Cv/My%20Web.html or,
 * Have a laptop installed with:
 * Linux and configured to Git.
 * Text editor (Atom recommended).
